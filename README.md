@@ -1,4 +1,4 @@
-# Remote-Controlled Tesla – 
+# Remote-Controlled Tesla
 
 This repository contains the source code and hardware schematics for the **Remote-Controlled Tesla** project developed by **The Golden Dragon Team**. As the lead programmer, I was responsible for implementing the core logic, including motor control, Bluetooth communication, and LED management.
 
